@@ -13,7 +13,7 @@ import javax.annotation.PreDestroy;
 /**
  * @author Harvey Braun
  * @version 1.0
- * @since 19/04/2020 - 23:00
+ * @since 19/04/2020
  */
 @Component
 @Getter @Setter
